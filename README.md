@@ -3,15 +3,15 @@
 
 ## 概要 / Overview
 
-**Dual Timbre** は、Buchlaのウェーブフォルダー回路を現代的にアレンジした、デュアル構成のサウンドシェイピングツールです。
-VCAのレスポンスカーブは、エクスポネンシャルからリニアまで連続的に調整可能です。
-TIMBREおよびOFFSETノブは、パッチケーブルが接続されていない場合にはVCAの開き具合を調整するコントロールとして機能し、CV信号が接続されている場合にはアッテネーターとして動作します。
-CV入力は0～+10V、オーディオ入力は±5V（10Vpp）を想定しています。
+**Dual Timbre** は、Buchlaのウェーブフォルダー回路を現代的にアレンジした、デュアル構成のサウンドシェイピングツールです。  
+VCAのレスポンスカーブは、エクスポネンシャルからリニアまで連続的に調整可能です。  
+TIMBREおよびOFFSETノブは、パッチケーブルが接続されていない場合にはVCAの開き具合を調整するコントロールとして機能し、CV信号が接続されている場合にはアッテネーターとして動作します。  
+CV入力は0～+10V、オーディオ入力は±5V（10Vpp）を想定しています。  
 
-**Dual Timbre** is a dual-channel sound shaping tool that offers a modern take on the Buchla wavefolder circuit.
-The VCA response curve is continuously adjustable from exponential to linear.
-The TIMBRE and OFFSET knobs act as controls for the VCA's opening amount when no patch cable is connected, and serve as attenuators when a CV signal is present.
-The CV input expects a 0 to +10V signal, while the audio input is designed for ±5V (10V peak-to-peak).
+**Dual Timbre** is a dual-channel sound shaping tool that offers a modern take on the Buchla wavefolder circuit.  
+The VCA response curve is continuously adjustable from exponential to linear.  
+The TIMBRE and OFFSET knobs act as controls for the VCA's opening amount when no patch cable is connected, and serve as attenuators when a CV signal is present.  
+The CV input expects a 0 to +10V signal, while the audio input is designed for ±5V (10V peak-to-peak).  
 
 
 ## 仕様 / Spec
