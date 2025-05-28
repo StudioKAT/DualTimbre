@@ -1,5 +1,5 @@
 # Dual Timbre
-![Dual Timbre Front]()
+![Dual Timbre Front](<v1.0/Images/Dual Timbre_Front.jpeg>)
 
 ## 概要 / Overview
 
@@ -17,7 +17,7 @@ The CV input expects a 0 to +10V signal, while the audio input is designed for �
 ## 仕様 / Spec
 - Format: Eurorack
 - Function: 
-- Current needs: +12V: 40mA, -12V: 40mA
+- Current needs: +12V: 55mA, -12V: 55mA
 - Width: 8 HP
 - Depth: 35mm (including power connector)
 
@@ -25,7 +25,7 @@ The CV input expects a 0 to +10V signal, while the audio input is designed for �
 ## 販売 / Sales
 
 StudioKATオフィシャルショップで販売しています。(日本国内限定)  
-https://www.studiokat.jp/
+ https://www.studiokat.jp/items/109037903
 
 
 ## ライセンス / License
@@ -44,4 +44,4 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 ## 更新履歴 / Changelog
 
-- `2025-05-01` v1.0 Released version 1.0
+- `2025-05-28` v1.0 Release

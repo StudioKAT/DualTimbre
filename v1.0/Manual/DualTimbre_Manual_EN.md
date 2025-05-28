@@ -1,6 +1,6 @@
 # Dual Timbre Manual (EN)
 
-![Dual Timbre Front]()
+![Dual Timbre Front](<../Images/Dual Timbre_Front.jpeg>)
 
 ## Overview
 
@@ -16,7 +16,7 @@ The CV inputs are designed for 0 to +10V signals, and the audio inputs for ±5V 
 - **Format**: Eurorack  
 - **Width**: 8 HP  
 - **Depth**: 35 mm  
-- **Current Consumption**: +12V: 40mA / -12V: 40mA  
+- **Current Consumption**: +12V: 55mA / -12V: 55mA  
 
 > **IMPORTANT**: Connect the ribbon cable so that the red stripe aligns with -12V.  
 > Incorrect connection may damage the module.  
@@ -26,7 +26,7 @@ The CV inputs are designed for 0 to +10V signals, and the audio inputs for ±5V 
 
 ## Functions of Each Section
 
-![explanation]()
+![explanation](<../Images/Dual Timbre_Ex.jpg>)
 
 1. **TIMBRE**  
    Knob for adjusting the wavefolding amount.  
@@ -81,4 +81,4 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 ## Revision History
 
-- `2025-05-01`: v1.0 Release
+- `2025-05-28`: v1.0 Release
