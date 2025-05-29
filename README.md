@@ -16,11 +16,13 @@ The CV input expects a 0 to +10V signal, while the audio input is designed for �
 
 ## 仕様 / Spec
 - Format: Eurorack
-- Function: 
+- Function: Buchla Style Wave Folder
 - Current needs: +12V: 55mA, -12V: 55mA
 - Width: 8 HP
 - Depth: 35mm (including power connector)
 
+## 動画 / Movie
+[![Dual Timbre](https://github.com/user-attachments/assets/ec464369-3d0f-4006-aaf1-4371b241b35d)](https://youtu.be/piGdNXMZIGw)
 
 ## 販売 / Sales
 
