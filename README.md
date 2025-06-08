@@ -1,15 +1,15 @@
 # Dual Timbre
-![Dual Timbre Front](<v1.0/Images/Dual Timbre_Front.jpeg>)
+![Dual Timbre Front](<Images/Dual Timbre_Front.jpeg>)
 
 ## 概要 / Overview
 
 **Dual Timbre** は、Buchlaのウェーブフォルダー回路を現代的にアレンジした、デュアル構成のサウンドシェイピングツールです。  
-VCAのレスポンスカーブは、エクスポネンシャルからリニアまで連続的に調整可能です。  
+VCAのレスポンスカーブは、リニアからエクスポネンシャルまで連続的に調整可能です。  
 TIMBREおよびOFFSETノブは、パッチケーブルが接続されていない場合にはVCAの開き具合を調整するコントロールとして機能し、CV信号が接続されている場合にはアッテネーターとして動作します。  
 CV入力は0～+10V、オーディオ入力は±5V（10Vpp）を想定しています。  
 
 **Dual Timbre** is a dual-channel sound shaping tool that offers a modern take on the Buchla wavefolder circuit.  
-The VCA response curve is continuously adjustable from exponential to linear.  
+The VCA response curve is continuously adjustable from linear to exponential.  
 The TIMBRE and OFFSET knobs act as controls for the VCA's opening amount when no patch cable is connected, and serve as attenuators when a CV signal is present.  
 The CV input expects a 0 to +10V signal, while the audio input is designed for ±5V (10V peak-to-peak).  
 
@@ -23,6 +23,9 @@ The CV input expects a 0 to +10V signal, while the audio input is designed for �
 
 ## 動画 / Movie
 [![Dual Timbre](https://github.com/user-attachments/assets/ec464369-3d0f-4006-aaf1-4371b241b35d)](https://youtu.be/piGdNXMZIGw)
+
+v1.1 UPDATE  
+https://x.com/StudioKAT_synth/status/1931323608674316583
 
 ## 販売 / Sales
 
@@ -47,3 +50,4 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 ## 更新履歴 / Changelog
 
 - `2025-05-28` v1.0 Release
+- `2025-06-08` v1.1 Curveの向き変更

@@ -1,11 +1,11 @@
 # Dual Timbre Manual (EN)
 
-![Dual Timbre Front](<../Images/Dual Timbre_Front.jpeg>)
+![Dual Timbre Front](<../../Images/Dual Timbre_Front.jpeg>)
 
 ## Overview
 
 **Dual Timbre** is a dual-channel sound shaping tool that offers a modern take on the Buchla wavefolder circuit.  
-The VCA response curve is continuously adjustable from exponential to linear.  
+The VCA response curve is continuously adjustable from linear to exponential.  
 The TIMBRE and OFFSET knobs act as controls for the VCA’s opening amount when no patch cable is connected, and serve as attenuators when a CV signal is connected.  
 The CV inputs are designed for 0 to +10V signals, and the audio inputs for ±5V (10V peak-to-peak).
 
@@ -26,7 +26,7 @@ The CV inputs are designed for 0 to +10V signals, and the audio inputs for ±5V 
 
 ## Functions of Each Section
 
-![explanation](<../Images/Dual Timbre_Ex.jpg>)
+![explanation](<../../Images/Dual Timbre_Ex.jpg>)
 
 1. **TIMBRE**  
    Knob for adjusting the wavefolding amount.  
@@ -40,7 +40,7 @@ The CV inputs are designed for 0 to +10V signals, and the audio inputs for ±5V 
 
 3. **CURVE**  
    Knob for adjusting the VCA response curve.  
-   Continuously variable from exponential to linear.
+   Continuously variable from linear to exponential.
 
 4. **CV A1**  
    CV input for TIMBRE.  
@@ -82,3 +82,4 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 ## Revision History
 
 - `2025-05-28`: v1.0 Release
+- `2025-06-08`: v1.1 Curve direction changed.
